@@ -85,23 +85,23 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Merged to be cleaner and more accessible */
 .benefit-body {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Merged to be cleaner and more accessible */
 .benefit-body h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Merged to be cleaner and more accessible */
 .benefit-body img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Merged to be cleaner and more accessible */
 .body-text {
     margin-bottom: 20px;
     padding: 50px;
@@ -110,11 +110,11 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Merged to be cleaner and more accessible */
 .body-text img {
     max-height: 200px;
 }
-
+/* Merged to be cleaner and more accessible */
 .body-text h2 {
     margin-bottom: 20px;
     font-size: 36px;
